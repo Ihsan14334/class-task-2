@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #3498DB;
+}
+.container{
+    background-color: #2C3E50;
+    display: flex;
+   height: 100px;
+   
+}
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.nav-list{
+    display: inline;
+    margin-top: 35px;
+    font-size: 20px;
+    font-weight: 600;
+}
+ .nav-list ul{
+    list-style-type: none;
+    float: right;
+    margin-left: 700px;
+
+    
+ }
+ ul li{
+    display: inline;
+    color: white;
+    margin: 20px;
+    
+ }
+ .btn{
+    border: 1px solid black;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #3498DB;
+    background-color: white;
+    border-radius: 4px;
+
+    
+ }
+
+/* content */
+.content{
+    margin-left: 300px;
+    margin-top: 200px;
+    display: block;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+p{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 25px;
+    color: white;
+}
+.boxes{
+    margin-top: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.box1{
+    width: 300px;
+    height: 150px;
+    border-radius: 4px;
+    background-color: #ECF0F1;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+h2{
+    color: black;
+    margin-left: 35px;
+    margin-top: 20px;
+    
+}
+.box2{
+    width: 300px;
+    height: 150px;
+    border-radius: 4px;
+    background-color: #ECF0F1;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.box3{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: #ECF0F1;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 550px;
+    margin-top:  40px;
+   text-align: center;
+}
+.about{
+    width: 1100px;
+    height: 300px;
+    background-color:#ECF0F1 ;
+    margin-left: 130px;
+    margin-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+ #Us{
+    margin-left: 530px;
+    font-size: 40px;
+    margin-top: 150px;
+ }
+ #p2{
+    margin-left: 300px;
+ }
+ #btnn1{
+    width: 300px;
+ }
+
+
+
+ 
+ 
+ 
+   
+
+
